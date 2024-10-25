@@ -1,0 +1,87 @@
+{
+	"id": "a925e549-9a73-4b8f-bfb7-e18d30d867df",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Charlie",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Jones",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ContactId",
+			"value": "6715e4e41cc91d001343daaf",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzBiM2FiMGU0NjY4YjAwMTMxNTYzYTMiLCJpYXQiOjE3Mjk0ODc4NzV9.Lx4_NZBC21AxMNRLUv0e-Qnkl4nmhutMsZng5Crm4uc",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "birthDate",
+			"value": "1977-07-07",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "ppprunewhip@fake.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "phone",
+			"value": "8005552000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street1",
+			"value": "123 Main St.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "street2",
+			"value": "Apartment R",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "Boston",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "stateProvince",
+			"value": "BT",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postalCode",
+			"value": "12344",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "USA",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-10-21T05:25:00.367Z",
+	"_postman_exported_using": "Postman/11.17.1"
+}
