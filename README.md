@@ -25,8 +25,10 @@ Generates CLI and HTML reports.
 [Optional] Pushes updated collection back to GitHub.
 
 Jenkins Screenshot:
-![image](https://github.com/user-attachments/assets/4c83fe12-1036-40d2-8676-3afe606f9ad7)
-![image](https://github.com/user-attachments/assets/74a1d7e2-b80f-4b33-a6c6-208516c8745e)
+![image](https://github.com/user-attachments/assets/68e12481-3406-4210-b530-cab2704b4965)
+![image](https://github.com/user-attachments/assets/ee927742-36fd-434c-a033-93a031289c63)
+
+
 
 
 
